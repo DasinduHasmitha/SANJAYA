@@ -4,6 +4,8 @@ An ai assistant made by dasindu hasmitha to get every major or minor software wo
     #please download given python packages.
     
     #Any code editor that installed python 3.5 or later can run this file.
+    
+    #But code editor should have jupyter extension installed.
    
     #This is an official technology of me so do not use it for bad works and its not my respponsibillity.
     
